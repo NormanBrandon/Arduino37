@@ -6,4 +6,11 @@ Una definicion formal es la siguiente
 
 En otras palabras, una maquina que produce movimiento para realizar cualquier tarea.
 ¿Poqué vemos motores en este curso?, porque una de las aplicaciones mas comunes de Arduino es el control, y como lo que queremos es tener control con sistemas fisicos y no solo virtuales necesitamos de estos elementos que tienen inumerables aplicaciones.
-Los motores que usaremos en este curso son los motores DC, es decir aquellos que funcionan con corriente continua (el tipo de corriente que proporciona una pila, o el cargador de tu celular)
+Los motores que usaremos en este curso son los motores DC, es decir aquellos que funcionan con corriente continua (el tipo de corriente que proporciona una pila, o el cargador de tu celular).Enc
+Sabemos que hay muchos tipos de motores, como el motor de tu carro que funciona con gasolina, o el motor de tu lavadora que funciona co corriente alterna; ¿pero que tiene de especial el motor DC?, pues que es muy facil de usar y podemos controlar mas variables de las que podemos controlar usando alguno de los motores anteriores. 
+### ¿Qué variables podemos controlar?
+* Velocidad
+* Dirección de giro
+* Encendido/Apagado
+* Posicion (solo Servomotores)
+* Pasos (solo en Motores a Pasos)
