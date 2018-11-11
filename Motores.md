@@ -12,7 +12,7 @@ Se pueden clasificar por distintas caracteristicas como: Por el tipo de energía
 Vamos a verlos por el tipo de energia que convierten
 * ### Motores de Combustión Interna
 Un motor de combustión interna es un tipo de máquina que obtiene energía mecánica directamente de la energía química de un combustible que arde dentro de una cámara de combustión. Su nombre se debe a que dicha combustión se produce dentro de la máquina en si misma, a diferencia de, por ejemplo, la máquina de vapor.
-
+![Motor de Gasolina(ro-des.com)](https://img1.ro-des.com/wp-content/uploads/2014/11/mot-gasolina-ciclo_2.jpg)
 Los motores que usaremos en este curso son los motores DC, es decir aquellos que funcionan con corriente continua (el tipo de corriente que proporciona una pila, o el cargador de tu celular). ¿pero que tiene de especial el motor DC?, pues que es muy facil de usar y podemos controlar mas variables de las que podemos controlar usando alguno de los motores anteriores. 
 
 ## ¿Qué variables podemos controlar?
