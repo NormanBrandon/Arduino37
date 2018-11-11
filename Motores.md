@@ -14,3 +14,4 @@ Sabemos que hay muchos tipos de motores, como el motor de tu carro que funciona 
 * Encendido/Apagado
 * Posicion (solo Servomotores)
 * Pasos (solo en Motores a Pasos)
+Y como las controlamos? , pues con nuestro sistema de control Arduino. ¿Entonces lo podemos conectar al Arduino asi nada mas y ya funciona?¿Como un led?; pues no exactamente
